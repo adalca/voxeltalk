@@ -1,7 +1,10 @@
 # BLMIA
 Boston Learning in Medical Image Analysis seminar
 
-The seminar is Mondays 1pm EST.
+The seminar is Mondays 1pm EST.  
+For details contact [Adrian V. Dalca](http://adalca.mit.edu).
+
+
 
 | Date | Name | Title | Details |  
 | --- | --- | --- | --- |  

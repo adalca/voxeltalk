@@ -1,7 +1,7 @@
 # BLMIA
-Boston Learning in Medical Image Analysis seminar
+Boston Learning in Medical Image Analysis seminar (until I come up with a better name)
 
-The seminar is **Mondays 1pm EST**.  
+The seminar is **Mondays 1pm EST**. Until further notice, it will remain virtual.  
 For details contact [Adrian V. Dalca](http://adalca.mit.edu).
 
 

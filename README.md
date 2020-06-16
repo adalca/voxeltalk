@@ -1,4 +1,4 @@
-# BLMIA
+# BL.MIA
 Boston Learning in Medical Image Analysis seminar (until I come up with a better name)
 
 The seminar is **Mondays 1pm EST**. Until further notice, it will remain virtual.  

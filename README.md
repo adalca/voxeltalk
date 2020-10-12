@@ -1,4 +1,4 @@
-# Voxel Talk
+# Voxel Talk: a virtual seminar series
 (Virtual) Talks on Machine Learning in Medical Image Analysis
 
 The seminar is usually **at 1pm EST**. Until further notice, it will remain virtual. 

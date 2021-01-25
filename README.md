@@ -6,7 +6,7 @@ For details contact [Adrian V. Dalca](http://adalca.mit.edu).
 
 | Date | Name | Title | Details |  
 | ---------- | --- | --- | --- |  
-| 01-25-2020 1pm | [Katherine Bouman](assets/01-25-2021.md) | [Designing the Future of Black Hole Imaging via Learning](assets/01-25-2021.md) |  |
+| 01-25-2020 1pm | [Katherine Bouman](assets/01-25-2021.md) | [Designing the Future of Black Hole Imaging via Learning](assets/01-25-2021.md) | [zoom](https://mit.zoom.us/j/98934115460)  |
 | 02-22-2020 1pm | [Ryu Tanno](assets/02-22-2021.md) | [TBD](assets/02-22-2021.md) |  |
 | 03-08-2020 1pm | [Meenakshi Khlosa](assets/03-08-2021.md) | [TBD](assets/03-08-2021.md) |  |
 

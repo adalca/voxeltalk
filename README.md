@@ -6,7 +6,7 @@ For details contact [Adrian V. Dalca](http://adalca.mit.edu).
 
 | Date | Name | Title | Details |  
 | ---------- | --- | --- | --- |  
-| 02-22-2020 1pm | [Ryu Tanno](assets/02-22-2021.md) | [TBD](assets/02-22-2021.md) |  |
+| 02-22-2020 1pm | [Ryu Tanno](assets/02-22-2021.md) | [Modelling Human Uncertainty: how to teach machines when experts disagree](assets/02-22-2021.md) |  |
 | 03-08-2020 1pm | [Meenakshi Khlosa](assets/03-08-2021.md) | [TBD](assets/03-08-2021.md) |  |
 | 03-15-2020 1pm | [Donglai Wei](assets/03-15-2021.md) | [TBD](assets/03-15-2021.md) |  |
 

@@ -6,7 +6,7 @@ For details contact [Adrian V. Dalca](http://adalca.mit.edu).
 
 | Date | Name | Title | Details |  
 | ---------- | --- | --- | --- |  
-| 03-08-2021 1pm | [Meenakshi Khosla](assets/03-08-2021.md) | [Towards holistic neural encoding models for multi-modal naturalistic stimuli](assets/03-08-2021.md) |  |
+| 03-08-2021 1pm | [Meenakshi Khosla](assets/03-08-2021.md) | [Towards holistic neural encoding models for multi-modal naturalistic stimuli](assets/03-08-2021.md) | [zoom](https://mit.zoom.us/j/95932016947) |
 | 03-15-2021 1pm | [Donglai Wei](assets/03-15-2021.md) | [Learning with Limited Labeled Biomedical Images](assets/03-15-2021.md) |  |
 | 04-26-2021 1pm | [Ana Namburete](assets/04-26-2021.md) | [TBD](assets/04-26-2021.md) |  |
 

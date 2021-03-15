@@ -6,7 +6,7 @@ For details contact [Adrian V. Dalca](http://adalca.mit.edu).
 
 | Date | Name | Title | Details |  
 | ---------- | --- | --- | --- |  
-| 03-15-2021 1pm | [Donglai Wei](assets/03-15-2021.md) | [Learning with Limited Labeled Biomedical Images](assets/03-15-2021.md) |  |
+| 03-15-2021 1pm | [Donglai Wei](assets/03-15-2021.md) | [Learning to Label Large-scale Datasets for Connectomics](assets/03-15-2021.md) |  |
 | 04-26-2021 1pm | [Ana Namburete](assets/04-26-2021.md) | [TBD](assets/04-26-2021.md) |  |
 
 Past talks:

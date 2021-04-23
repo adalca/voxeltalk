@@ -6,13 +6,13 @@ For details contact [Adrian V. Dalca](http://adalca.mit.edu).
 
 | Date | Name | Title | Details |  
 | ---------- | --- | --- | --- |  
-| 03-15-2021 1pm | [Donglai Wei](assets/03-15-2021.md) | [Learning to Label Large-scale Datasets for Connectomics](assets/03-15-2021.md) | [zoom](https://mit.zoom.us/s/98209805888) |
-| 04-26-2021 1pm | [Ana Namburete](assets/04-26-2021.md) | [TBD](assets/04-26-2021.md) |  |
+| 05-17-2021 1pm | [Ana Namburete](assets/04-26-2021.md) | [TBD](assets/04-26-2021.md) |  |
 
 Past talks:
 
 | Date | Name | Title | Details | 
 | ---------- | --- | --- | --- |  
+| 03-15-2021 1pm | [Donglai Wei](assets/03-15-2021.md) | [Learning to Label Large-scale Datasets for Connectomics](assets/03-15-2021.md) | [zoom](https://mit.zoom.us/s/98209805888) |
 | 03-08-2021 1pm | [Meenakshi Khosla](assets/03-08-2021.md) | [Towards holistic neural encoding models for multi-modal naturalistic stimuli](assets/03-08-2021.md) |  |
 | 03-01-2021 1pm | [Ryu Tanno](assets/03-01-2021.md) | [How To Teach Machines When Experts Disagree](assets/03-01-2021.md) |  |
 | 01-25-2021 1pm | [Katherine Bouman](assets/01-25-2021.md) | [Designing the Future of Black Hole Imaging via Learning](assets/01-25-2021.md) |  |

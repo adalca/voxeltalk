@@ -6,7 +6,8 @@ For details contact [Adrian V. Dalca](http://adalca.mit.edu).
 
 | Date | Name | Title | Details |  
 | ---------- | --- | --- | --- |  
-| 05-17-2021 1pm | [Ana Namburete](assets/04-26-2021.md) | [TBD](assets/04-26-2021.md) |  |
+| 05-10-2021 1pm | [Neel Dey](assets/05-10-2021.md) | [TBD](assets/05-10-2021.md) |  |
+| 05-17-2021 **11am** | [Ana Namburete](assets/04-26-2021.md) | [TBD](assets/04-26-2021.md) |  |
 
 Past talks:
 

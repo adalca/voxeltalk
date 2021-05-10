@@ -6,13 +6,13 @@ For details contact [Adrian V. Dalca](http://adalca.mit.edu).
 
 | Date | Name | Title | Details |  
 | ---------- | --- | --- | --- |  
-| 05-10-2021 1pm | [Neel Dey](assets/05-10-2021.md) | [Improving Conditional Deformable Template Construction with Generative Adversarial Registration](assets/05-10-2021.md) | [paper](https://www.neeldey.com/deformable-templates/) |
 | 05-17-2021 **11am** | [Ana Namburete](assets/04-26-2021.md) | [TBD](assets/04-26-2021.md) |  |
 
 Past talks:
 
 | Date | Name | Title | Details | 
 | ---------- | --- | --- | --- |  
+| 05-10-2021 1pm | [Neel Dey](assets/05-10-2021.md) | [Improving Conditional Deformable Template Construction with Generative Adversarial Registration](assets/05-10-2021.md) | [paper](https://www.neeldey.com/deformable-templates/) |
 | 03-15-2021 1pm | [Donglai Wei](assets/03-15-2021.md) | [Learning to Label Large-scale Datasets for Connectomics](assets/03-15-2021.md) | [zoom](https://mit.zoom.us/s/98209805888) |
 | 03-08-2021 1pm | [Meenakshi Khosla](assets/03-08-2021.md) | [Towards holistic neural encoding models for multi-modal naturalistic stimuli](assets/03-08-2021.md) |  |
 | 03-01-2021 1pm | [Ryu Tanno](assets/03-01-2021.md) | [How To Teach Machines When Experts Disagree](assets/03-01-2021.md) |  |

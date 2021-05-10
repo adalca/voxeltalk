@@ -6,7 +6,7 @@ For details contact [Adrian V. Dalca](http://adalca.mit.edu).
 
 | Date | Name | Title | Details |  
 | ---------- | --- | --- | --- |  
-| 05-17-2021 **11am** | [Ana Namburete](assets/05-17-2021.md) | [Deep learning in population-level neuroimaging: Technical challenges and clinical opportunities](assets/05-17-2021.md) |  |
+| 05-17-2021 **11am** [different time!] | [Ana Namburete](assets/05-17-2021.md) | [Deep learning in population-level neuroimaging: Technical challenges and clinical opportunities](assets/05-17-2021.md) |  |
 
 Past talks:
 

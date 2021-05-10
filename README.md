@@ -6,7 +6,7 @@ For details contact [Adrian V. Dalca](http://adalca.mit.edu).
 
 | Date | Name | Title | Details |  
 | ---------- | --- | --- | --- |  
-| 05-10-2021 1pm | [Neel Dey](assets/05-10-2021.md) | [Improving Conditional Deformable Template Construction with Generative Adversarial Registration](assets/05-10-2021.md) | [zoom](https://mit.zoom.us/j/97541568520) |
+| 05-10-2021 1pm | [Neel Dey](assets/05-10-2021.md) | [Improving Conditional Deformable Template Construction with Generative Adversarial Registration](assets/05-10-2021.md) | [zoom](https://mit.zoom.us/j/97541568520) [paper](https://www.neeldey.com/deformable-templates/) |
 | 05-17-2021 **11am** | [Ana Namburete](assets/04-26-2021.md) | [TBD](assets/04-26-2021.md) |  |
 
 Past talks:

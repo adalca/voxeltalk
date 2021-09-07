@@ -6,12 +6,13 @@ For details contact [Adrian V. Dalca](http://adalca.mit.edu).
 
 | Date | Name | Title | Details |  
 | ---------- | --- | --- | --- |  
-| 05-17-2021 **11am** [different time!] | [Ana Namburete](assets/05-17-2021.md) | [Deep learning in population-level neuroimaging: Technical challenges and clinical opportunities](assets/05-17-2021.md) | [zoom](https://mit.zoom.us/j/96080932313) |
+
 
 Past talks:
 
 | Date | Name | Title | Details | 
 | ---------- | --- | --- | --- |  
+| 05-17-2021 **11am** [different time!] | [Ana Namburete](assets/05-17-2021.md) | [Deep learning in population-level neuroimaging: Technical challenges and clinical opportunities](assets/05-17-2021.md) |  |
 | 05-10-2021 1pm | [Neel Dey](assets/05-10-2021.md) | [Improving Conditional Deformable Template Construction with Generative Adversarial Registration](assets/05-10-2021.md) | [paper](https://www.neeldey.com/deformable-templates/) |
 | 03-15-2021 1pm | [Donglai Wei](assets/03-15-2021.md) | [Learning to Label Large-scale Datasets for Connectomics](assets/03-15-2021.md) | |
 | 03-08-2021 1pm | [Meenakshi Khosla](assets/03-08-2021.md) | [Towards holistic neural encoding models for multi-modal naturalistic stimuli](assets/03-08-2021.md) |  |

@@ -6,7 +6,7 @@ For details contact [Adrian V. Dalca](http://adalca.mit.edu).
 
 | Date | Name | Title | Details |  
 | ---------- | --- | --- | --- |  
-| 03-07-2022 | [Gia Ngo](assets/03-07-2022.md) | [Synthesis of Brain Maps using Deep Learning](assets/03-07-2022.md) |  |
+| 03-14-2022 | [Gia Ngo](assets/03-14-2022.md) | [Synthesis of Brain Maps using Deep Learning](assets/03-14-2022.md) |  |
 
 Past talks:
 

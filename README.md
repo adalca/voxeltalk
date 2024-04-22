@@ -12,6 +12,7 @@ Past talks:
 
 | Date | Name | Title | Details | 
 | ---------- | --- | --- | --- |  
+| 04-29-2024 | [Paolo Casale](assets/04-29-2024.md) | [ML-enabled Genetic Analysis of High-Content Phenotypes](assets/04-29-2024.md) |  |
 | 01-22-2024 and 01-23-2024 | [Alan Wang](assets/01-23-2024.md) | [Towards Reliable and Trustworthy Machine Learning Methods for Medical Imaging](assets/01-23-2024.md) |  |
 | 03-14-2022 | [Gia Ngo](assets/03-14-2022.md) | [Synthesis of Brain Maps using Deep Learning](assets/03-14-2022.md) |  |
 | 05-17-2021 **11am** [different time!] | [Ana Namburete](assets/05-17-2021.md) | [Deep learning in population-level neuroimaging: Technical challenges and clinical opportunities](assets/05-17-2021.md) |  |

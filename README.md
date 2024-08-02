@@ -6,6 +6,7 @@ For details contact [Adrian V. Dalca](http://adalca.mit.edu).
 
 | Date | Name | Title | Details |  
 | ---------- | --- | --- | --- |  
+| 08-09-2024 | [José Dolz](assets/08-09-2024.md) | [How to improve the uncertainty estimates in deep models?](assets/08-09-2024.md) |  |
 
 
 Past talks:
